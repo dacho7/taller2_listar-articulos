@@ -1,9 +1,12 @@
 # Taller2
 
-Integrantes:
-Edward Albeiro Malte
-Daniel Estiven Guancha
-Brayan David Tobar
+## Integrantes:
+
+## Edward Albeiro Malte
+
+## Daniel Estiven Guancha
+
+## Brayan David Tobar
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
